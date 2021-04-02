@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-O JobsCalc is a calculation estimation application for freelancer projects, where it is possible to register and delete jobs (projects), obtaining an estimate of the cost of each job. In addition, it is possible to trace the hourly value of the person who will be using the system. 💰
+JobsCalc is a calculation estimation application for freelancer projects, where it is possible to register and delete jobs (projects), obtaining an estimate of the cost of each job. In addition, it is possible to trace the hourly value of the person who will be using the system. 💰
 
 ## 🔖 Layout
 
