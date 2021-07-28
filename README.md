@@ -21,7 +21,7 @@
   <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
 </p>
 
-## 🚀 Tech stack
+## 🚀 Built with
 
 This project was developed with the following technologies:
 
